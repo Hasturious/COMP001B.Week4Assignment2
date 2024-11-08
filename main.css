@@ -11,6 +11,8 @@
 
 /* 
 	You can modify everything after this point.
+
+	Yup
 */
 
 a:link, a:visited {
@@ -24,6 +26,8 @@ a:focus, a:hover {
 	transition-duration: 0.2s;
 	transition-property: background;
 }
+
+/*2 things above are unmodified so far*/
 
 body {
 
@@ -50,7 +54,7 @@ h3 {
 }
 
 header {
-	
+	padding: 100px;	
 }
 
 main {
